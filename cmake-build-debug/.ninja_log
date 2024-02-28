@@ -1,0 +1,15 @@
+# ninja log v5
+1414	1510	1709098974815203154	OOP_lab_1_1	8f47906bb482583e
+2036	2166	1709098684138168505	Google_tests/Google_Tests_run	1815bd7d82420fbb
+6	5046	1709093720241663989	Google_tests/CMakeFiles/Google_Tests_run.dir/__/IntPower.cpp.o	a1258f2514115c9a
+2	1413	1709098974716829207	CMakeFiles/OOP_lab_1_1.dir/IntPower.cpp.o	f9b98c5d305c7fe3
+4	1358	1709084265542749083	CMakeFiles/OOP_lab_1_1.dir/main.cpp.o	423c0806c2ffdea9
+6479	6743	1709086563817907000	lib/libgtest.a	c6f01884f2718f79
+3	6479	1709086563530595201	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4d411611bc283822
+2106	4083	1709086561147641371	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	95a7ac7ae98452f3
+6744	6818	1709086563891314000	lib/libgtest_main.a	2cc3c6d061b36794
+9	2035	1709098684007248158	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	424dd07f72583910
+4	81	1709098733148965631	CMakeFiles/OOP_lab_1_1.dir/Google_tests/test.cpp.o	bfd6d5e11cd2dcf8
+17	1988	1709116637706650368	Google_tests/CMakeFiles/Google_Tests_run.dir/__/IntPower.cpp.o	a1258f2514115c9a
+10	2571	1709116638294363363	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	424dd07f72583910
+2571	2734	1709116638459398178	Google_tests/Google_Tests_run	1815bd7d82420fbb
